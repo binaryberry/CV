@@ -3,7 +3,9 @@ Tatiana Soukiassian
 
 **Available for work as a Junior Developer in London, UK**
 
-I love logical problem-solving and find it very rewarding to build and improve apps and sites. After 7 years working in international PR for tech brands such as Eventbrite and Yelp, I decided to go through the looking glass and become a developer myself. After following a very intensive 12 weeks course at [Makers Academy], I am looking forward to finding my first job as a developer. 
+I love logical problem-solving and find it very rewarding to build and improve apps and sites. After 7 years working in PR for tech brands such as Eventbrite and Yelp, I decided to go through the looking glass and become a developer myself.
+
+I have just graduated from an intensive 12 week development bootcamp at [Makers Academy] and I am looking forward to finding my first job as a developer. 
 
 Web development
 ---------------
@@ -12,7 +14,7 @@ Web development
 
 | [Map to the Future] | [Bookmark Collector] | [Boris Bikes]
 |:-------------- |:------------- |:------------ |
-| A world map displaying the historical events that happened on a specific date. The date can be changed using a slider, and each event is represented by a marker on the map with a pop up that provides more information| A Sinatra website allowing users to store links to their favorite websites, built during week 5 at Makers Academy.| A model of the 'Boris Bikes' bike hire scheme in London, built during week 2 and 3 at Makers Academy|
+| A world map displaying the historical events that happened on a specific date. The date can be changed using a slider, and each event is represented by a marker on the map with a pop up that provides more information| A Sinatra website allowing users to store links to their favorite websites, built during week 5 at Makers Academy. Taught me to use databases and user sessions.| A model of the 'Boris Bikes' bike hire scheme in London, built during week 2 and 3 at Makers Academy, my first introduction to OOD and SOLID principles.|
 
 
 ####*Skills*
