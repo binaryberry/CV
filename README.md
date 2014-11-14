@@ -20,12 +20,9 @@ Web development
 ####*Skills*
 
 - Primary language: Ruby
-- Other languages: Javascript, CSS, HTML, Node.js
-- Test Driven Development
-  - RSpec
-  - Capybara
-  - Cucumber
-  - Jasmine
+- Other languages: Javascript, CSS, HTML
+- Languages I've just played with: Node.js, Io, Clojure, Coffeescript
+- Test Driven Development languages: RSpec, Capybara, Cucumber, Jasmine
 - Web development frameworks
   - Rails 4.0
   - Sinatra
