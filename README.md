@@ -19,10 +19,22 @@ Web development
 
 ####*Skills*
 
-- Primary language: Ruby
-- Other languages: Javascript, CSS, HTML
-- Languages I've just played with: Node.js, Io, Clojure, Coffeescript
-- Test Driven Development languages: RSpec, Capybara, Cucumber, Jasmine
+- Primary language 
+  - Ruby
+- Other languages:
+  - HTML
+  - CSS
+  - Javascript
+- Languages I've just played with
+  - Node.js
+  - Io
+  - Clojure
+  - Coffeescript
+- Test Driven Development languages
+  - RSpec
+  - Capybara
+  - Cucumber
+  - Jasmine
 - Web development frameworks
   - Rails 4.0
   - Sinatra
@@ -50,6 +62,10 @@ Web development
   - Pair programming and teamwork
   - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk].
   
+**Other coding activities**
+  - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site
+  - Coderetreat - 5 iterations of writing Conway's Game of Life, with different constraints, using pair-programming and testing
+  - Codebar attendee
   
 
 Previous Employment
