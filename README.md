@@ -17,6 +17,8 @@ Web development
 | A world map displaying the historical events that happened on a specific date. The date can be changed using a slider, and each event is represented by a marker on the map with a pop up that provides more information| A Sinatra website allowing users to store links to their favorite websites, built during week 5 at Makers Academy. Taught me to use databases and user sessions.| A model of the 'Boris Bikes' bike hire scheme in London, built during week 2 and 3 at Makers Academy, my first introduction to OOD and SOLID principles.|
 
 
+A more complete list of my projects is available [here].
+
 ####*Skills*
 
 - Primary language 
@@ -108,3 +110,4 @@ Contact me
 [binaryberry@gmail.com]: mailto:binaryberry@gmail.com
 [GitHub]: https://github.com/binaryberry
 [Twitter]:https://twitter.com/binaryberry
+[here]: https://github.com/binaryberry/portfolio
