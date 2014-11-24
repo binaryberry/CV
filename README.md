@@ -8,7 +8,7 @@ I love logical problem-solving and find it very rewarding to build and improve a
 I have just graduated from an intensive 12 week development bootcamp at [Makers Academy] and I am looking forward to finding my first job as a developer. 
 
 Web development
----------------
+----------------
 
 ####*Recent Projects*
 
