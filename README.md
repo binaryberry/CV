@@ -63,13 +63,13 @@ A more complete list of my projects is available [here].
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk]. My contribution was: 
-        - I researched similar projects and map tools we could use
-        - I set up the postgres database allowing to link events between them (using datamapper)
-        - I styled the pop ups in CSS
-        - I built a mail-merge system that allowed us to use volunteers to input large amounts of data at the last minute
-        - I kept the Kanban board always up-to-date
-        - I prepared the keynote presentation
-        - During our retro I suggested a widely successful morning hug ritual!
+      - I researched similar projects and map tools we could use
+      - I set up the postgres database allowing to link events between them (using datamapper)
+      - I styled the pop ups in CSS
+      - I built a mail-merge system that allowed us to use volunteers to input large amounts of data at the last minute
+      - I kept the Kanban board always up-to-date
+      - I prepared the keynote presentation
+      - During our retro I suggested a widely successful morning hug ritual!
   
 **Other coding activities**
   - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site
