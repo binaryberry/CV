@@ -106,7 +106,7 @@ Here are some transferable skills I have acquired:
 
 Education
 -----------
- * (2000-2006) **Master** in Marketing and Customer Relations, Audencia Nantes Management School and Lycée Vilgénis. 
+ * (2000-2006) Master in Marketing and Customer Relations, Audencia Nantes Management School and Lycée Vilgénis. 
  Included a one-year internship in a movie festival organisation.
 
 I also like...
