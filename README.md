@@ -23,7 +23,7 @@ A more complete list of my projects is available [here].
 
 - Primary language 
   - Ruby
-- Other languages:
+- Other languages
   - HTML
   - CSS
   - Javascript
@@ -88,11 +88,13 @@ Previous Employment
 
 ####*Eventbrite*
 PR Manager France: June 2013&mdash;December 2013
+
 I helped Eventbrite get press coverage in France, and got them to be mentionned in the French equivalents of Reuters, the Times and the Financial Times (by this I mean AFP, Le Monde, Les Echos).
 
 ####*AXA Life Invest*
 PR, Research and Digital Marketing Manager: January 2012&mdash;December 2012
-I managed the company's French and UK PR agencies, and led a couple of interesting market research projects carried out by Experian and SIMALTO specialist Research For Today. I also coordinated the company's social media efforts.
+
+I managed the company's French and UK PR agencies, and led a couple of interesting market research projects carried out by Experian and SIMALTO specialist Research For Today that allowed us to improve our distribution network. I also coordinated the company's social media efforts which saw its Facebook page rise from 40 to 1000 (relevant) followers.
 
 ####*Hopscotch Système Europe*
 Senior Consultant: December 2006&mdash;December 2011
@@ -107,7 +109,7 @@ Here are some transferable skills I have acquired:
 
 Education
 -----------
- * (2000-2006) Master in Marketing and Customer Relations, Audencia Nantes Management School and Lycée Vilgénis. 
+ * (2000-2006) Master in Marketing and Customer Relations from Audencia Nantes Management School and Lycée Vilgénis. 
  Included a one-year internship in a movie festival organisation.
 
 I also like...
