@@ -106,11 +106,11 @@ Here are some transferable skills I have acquired:
 
 Education
 -----------
- * (2000-2006) **Master**   
- - Marketing and Customer Relations, Audencia Nantes Management School and Lycée Vilgénis. Included a one-year internship in a movie festival organisation.
+ * (2000-2006) **Master** in Marketing and Customer Relations, Audencia Nantes Management School and Lycée Vilgénis. 
+ Included a one-year internship in a movie festival organisation.
 
- I also like...
- ----------------
+I also like...
+----------------
 - Game of Thrones - I organised a quiz night last June where guests where encouraged to fancy dress, and rebuild the iron throne using toothpicks, play-doh and kitchen foil. I presented the evening in costume, drafted the quiz questions, prepared large banners with the House's sigils, and promoted the event online. People were very happy!
 - Crossfit - a fitness programme that aims at being complete and varied: endurance, strength, speed and more! Tough but they have a great community and spirit. 
 - Juicing - that lovely apple, pineapple, celeri and kale juice... nutritious and delicious!
