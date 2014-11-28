@@ -62,7 +62,8 @@ A more complete list of my projects is available [here].
   - Ruby, object-oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk]. My contribution was: 
+  - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk]. 
+  My contribution: 
       - I researched similar projects and map tools we could use
       - I set up the postgres database allowing to link events between them (using datamapper)
       - I styled the pop ups in CSS
