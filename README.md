@@ -76,11 +76,11 @@ A more complete list of my projects is available [here].
   - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site
   - Coderetreat - 5 iterations of writing Conway's Game of Life, with different constraints, using pair-programming and testing
   - Codebar attendee
-  - Volonteered to give three lectures at Makers Academy: 
+  - Gave three lectures at Makers Academy: 
       - Command line and Sublime Text shortcuts that will save your life
       - Cunning Javascript tips
       - Hip hip Arrays! (with [David Wickes])
-  - Volonteered to write Makers Academy course content about using Ruby to read files
+  - Wrote Makers Academy course content about using Ruby to read files
   
 
 Previous Employment
