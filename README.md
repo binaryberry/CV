@@ -128,6 +128,7 @@ Contact me
 - [GitHub]
 - [Twitter]
 
+
 [Makers Academy]: http://www.makersacademy.com/
 [Map to the Future]: https://github.com/binaryberry/map-to-the-future
 [Bookmark Collector]: https://github.com/binaryberry/bookmark-collector
