@@ -122,7 +122,6 @@ I also like...
 
 Contact me
 ------------
-
 - Mobile: 077 62 43 23 46
 - Email: [binaryberry@gmail.com]
 - [GitHub]
