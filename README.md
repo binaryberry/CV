@@ -73,15 +73,15 @@ A more complete list of my projects is available [here].
       - During our retro I suggested a widely successful morning hug ritual!
   
 **Other coding activities**
-  - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site
+  - Took part in [24 Pull Requests] event where I paired with core Rails contributor [Andrew White] and fixed a [bug] in [Rails]!
+  - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site. I built most of the backend.
   - Coderetreat - 5 iterations of writing Conway's Game of Life, with different constraints, using pair-programming and testing
-  - Codebar attendee
   - Gave three lectures at Makers Academy: 
       - Command line and Sublime Text shortcuts that will save your life
       - Cunning Javascript tips
       - Hip hip Arrays! (with [David Wickes])
   - Wrote Makers Academy course content about using Ruby to read files
-  
+  - Codebar and Ruby Hacknight attendee
 
 Previous Employment
 ----------
@@ -119,14 +119,12 @@ I also like...
 - Juicing - that lovely apple, pineapple, celeri and kale juice... nutritious and delicious!
 - Excel sheets - I use them to organise my trips, handle people's feedback, organise parties... for a lot of different things. The day I spent fiddling with Google sheet formulas and forms to create a sales leads email generator was the day I realised I really needed to get serious about learning to code.
 
-
 Contact me
 ------------
 - Mobile: 077 62 43 23 46
 - Email: [binaryberry@gmail.com]
 - [GitHub]
 - [Twitter]
-
 
 [Makers Academy]: http://www.makersacademy.com/
 [Map to the Future]: https://github.com/binaryberry/map-to-the-future
@@ -139,3 +137,7 @@ Contact me
 [GitHub]: https://github.com/binaryberry
 [Twitter]:https://twitter.com/binaryberry
 [here]: https://github.com/binaryberry/portfolio
+[24 Pull Requests]: http://24pullrequests.com/
+[Andrew White]: https://github.com/pixeltrix
+[bug]: https://github.com/rails/rails/pull/18020
+[Rails]: http://contributors.rubyonrails.org/contributors/tatiana-soukiassian/commits
