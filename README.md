@@ -1,7 +1,7 @@
 Tatiana Soukiassian
 ===========
 
-**Available for work as a Junior Developer in London, UK.**
+**Available for work as a Junior Developer in London, UK**
 
 I love logical problem-solving and find it very rewarding to build and improve apps and sites. After 7 years working in PR for tech brands such as Eventbrite and Yelp, I decided to go through the looking glass and become a developer myself.
 
@@ -114,7 +114,7 @@ Education
 
 I also like...
 ----------------
-- Game of Thrones - I organised a quiz night last June where guests where encouraged to fancy dress, and rebuild the iron throne using toothpicks, play-doh and kitchen foil. I presented the evening in costume, drafted the quiz questions, prepared large banners with the House's sigils, and promoted the event online. People were very happy!
+- Game of Thrones - I organised a quiz night last June where guests where encouraged to fancy dress, and build a model of the iron throne using toothpicks, play-doh and kitchen foil. I presented the evening in costume, drafted the quiz questions, prepared large banners with the House's sigils, and promoted the event online. People were very happy!
 - Crossfit - a fitness programme that aims at being complete and varied: endurance, strength, speed and more! Tough but they have a great community and spirit. 
 - Juicing - that lovely apple, pineapple, celeri and kale juice... nutritious and delicious!
 - Excel sheets - I use them to organise my trips, handle people's feedback, organise parties... for a lot of different things. The day I spent fiddling with Google sheet formulas and forms to create a sales leads email generator was the day I realised I really needed to get serious about learning to code.
