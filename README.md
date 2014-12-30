@@ -1,7 +1,7 @@
 Tatiana Soukiassian
 ===========
 
-**Available for work as a Junior Developer in London, UK.**
+**Available for work as a Junior Developer in London, UK**
 
 I love logical problem-solving and find it very rewarding to build and improve apps and sites. After 7 years working in PR for tech brands such as Eventbrite and Yelp, I decided to go through the looking glass and become a developer myself.
 
