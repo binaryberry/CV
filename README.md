@@ -5,7 +5,7 @@ Tatiana Soukiassian
 
 I love logical problem-solving and find it very rewarding to build and improve apps and sites. After 7 years working in PR for tech brands such as Eventbrite and Yelp, I decided to go through the looking glass and become a developer myself.
 
-I have just graduated from an intensive 12 week development bootcamp at [Makers Academy] and I am looking forward to finding my first job as a developer. I love working as part of a team, and I want to find a company that embraces Agile methodologies and TDD, and where I can keep developing my skills while contributing to the codebase. 
+I have just graduated from an intensive 12 week development bootcamp at [Makers Academy] and I am looking forward to finding my first job as a developer. I love working as part of a team, and I want to find a company that embraces Agile methodologies and TDD, and where I can keep developing my skills while contributing to the codebase.
 
 Web development
 ----------------
@@ -21,7 +21,7 @@ A more complete list of my projects is available [here].
 
 ####*Skills*
 
-- Primary language 
+- Primary language
   - Ruby
 - Other languages
   - HTML
@@ -43,7 +43,7 @@ A more complete list of my projects is available [here].
 - Database management
   - PostgresQL
   - ActiveRecord
-  - DataMapper 
+  - DataMapper
 - Object oriented design
 - Basic Agile practices
 	- Morning standups
@@ -62,7 +62,7 @@ A more complete list of my projects is available [here].
   - Ruby, object-oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk]. 
+  - Final project: [Map to the Future] - a map of the world representing historical events through time. Built in 2 weeks with [David Wickes], [Lovis Schultze] and [Merve Silk].
     My contribution:
       - I researched similar projects and map tools we could use
       - I set up the postgres database allowing to link events between them (using datamapper)
@@ -71,12 +71,12 @@ A more complete list of my projects is available [here].
       - I kept the Kanban board always up-to-date
       - I prepared the keynote presentation
       - During our retro I suggested a widely successful morning hug ritual!
-  
+
 **Other coding activities**
   - Took part in [24 Pull Requests] event where I paired with core Rails contributor [Andrew White] and fixed a [bug] in [Rails]!
   - Wix London Hackathon - our team of 5 created an app allowing website users to text message the owner of the site. I built most of the backend.
   - Coderetreat - 5 iterations of writing Conway's Game of Life, with different constraints, using pair-programming and testing
-  - Gave three lectures at Makers Academy: 
+  - Gave three lectures at Makers Academy:
       - Command line and Sublime Text shortcuts that will save your life
       - Cunning Javascript tips
       - Hip hip Arrays! (with [David Wickes])
@@ -99,23 +99,24 @@ I managed the company's French and UK PR agencies, and led a couple of interesti
 ####*Hopscotch Système Europe*
 Senior Consultant: December 2006&mdash;December 2011
 
-During my time in public relations, I led international campaigns for a wide variety of companies, often having to familiarise myself with their sectors. Some tech companies I've worked for during my time there: Yelp, 9flats (competitor of Airbnb), Solocal (web solutions for SMB), BDNA (IT Asset Management Software). 
+During my time in public relations, I led international campaigns for a wide variety of companies, often having to familiarise myself with their sectors. Some tech companies I've worked for during my time there: Yelp, 9flats (competitor of Airbnb), Solocal (web solutions for SMB), BDNA (IT Asset Management Software).
 
 Here are some transferable skills I have acquired:
 - Organisational Skills: multitasking, prioritising tasks, setting deadlines
-- Communication Skills: presenting and sharing ideas in a clear way 
+- Communication Skills: presenting and sharing ideas in a clear way
 - Team player: delivering constructive feedback, offering help, being generally enthusiastic
 - Attention to detail: I am a card-carrying typo destroyer
 
 Education
 -----------
- * (2000-2006) Master in Marketing and Customer Relations from Audencia Nantes Management School and Lycée Vilgénis. 
+ * (2000-2006) Master in Marketing and Customer Relations from Audencia Nantes Management School and Lycée Vilgénis.
  Included a one-year internship in a movie festival organisation.
 
 I also like...
 ----------------
 - Game of Thrones - I organised a quiz night last June where guests where encouraged to fancy dress, and build a model of the iron throne using toothpicks, play-doh and kitchen foil. I presented the evening in costume, drafted the quiz questions, prepared large banners with the House's sigils, and promoted the event online. People were very happy!
-- Crossfit - a fitness programme that aims at being complete and varied: endurance, strength, speed and more! Tough but they have a great community and spirit. 
+- Crossfit - a fitness programme that aims at being complete and varied: endurance, strength, speed and more! Tough but they have a great community and spirit.
+- Yoga
 - Juicing - that lovely apple, pineapple, celeri and kale juice... nutritious and delicious!
 - Excel sheets - I use them to organise my trips, handle people's feedback, organise parties... for a lot of different things. The day I spent fiddling with Google sheet formulas and forms to create a sales leads email generator was the day I realised I really needed to get serious about learning to code.
 
